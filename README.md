@@ -1,1 +1,1 @@
-# akira hello
+print "hello"
